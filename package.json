@@ -1,0 +1,24 @@
+{
+  "name": "bankmanagementsystemsql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/japnit01/BankManagementSystemSQL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/japnit01/BankManagementSystemSQL/issues"
+  },
+  "homepage": "https://github.com/japnit01/BankManagementSystemSQL#readme",
+  "dependencies": {
+    "express": "^4.18.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3"
+  }
+}
